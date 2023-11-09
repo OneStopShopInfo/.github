@@ -12,4 +12,4 @@ Sources of these Emails:
 
 Demo https://docs.google.com/spreadsheets/d/14AF3w0TGp9HSd9O-eBUxpPXlwXBZuiDU3kmtcK_SqyE/edit?usp=sharing
 
-by <a href="">https://jharaphula.com</a>
+by <a href="https://jharaphula.com">OneStop Shop</a>
